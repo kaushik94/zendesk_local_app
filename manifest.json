@@ -1,0 +1,19 @@
+{
+  "name": "Dr Go's server side app",
+  "author": {
+    "name": "kaushik varanasi",
+    "email": "kaushik@moneysave.io"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "https://fastapi-production-16e7.up.railway.app/sidebar",
+        "flexible": true
+      }
+    }
+  },
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}
